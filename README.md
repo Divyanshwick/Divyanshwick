@@ -16,4 +16,5 @@ a student at Chitkara University, doing Bachelor's in Computer Science and Engin
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Divyanshwick&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
+[![HitCount](http://hits.dwyl.com/Divyanshwick/Divyanshwick.svg)](http://hits.dwyl.com/Divyanshwick/Divyanshwick)
 
