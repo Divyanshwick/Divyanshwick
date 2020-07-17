@@ -4,10 +4,10 @@
 a student at Chitkara University, doing Bachelor's in Computer Science and Engineering.
 
 - 👨🏻‍💻 I’m currently learning Full-Stack Web Development and React 
-- 🤝🏻 I’m currently working on Community Developmen
+- 🤝🏻 I’m currently working on Community Development
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
-- 💬 Ask me about HTML5 | Machine Leaning | Astrophysics | Community Development
+- 💬 Ask me about HTML5, CSS3, JS | Node.js, Express, MongoDB, Mongoose 
 - ⚡ Fun fact: I'm a [mobile photographer](https://instagram.com/kushal.bhanot/) 
 
 <a href="https://www.linkedin.com/in/kushal-bhanot-5495aa88/">
