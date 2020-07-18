@@ -7,7 +7,7 @@ a student at Chitkara University, doing Bachelor's in Computer Science and Engin
 - 🤝🏻 I’m currently working on Community Development
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
-- 💬 Ask me about HTML5, CSS3, JS | Node.js, Express, MongoDB, Mongoose 
+- 💬 Ask me about HTML5, CSS3, Bootstrap 4, JS | Node.js, Express, MongoDB, Mongoose 
 
 <a href="https://www.linkedin.com/in/divyansh-k-05085b193/">
   <img src="https://img.shields.io/badge/LINKEDIN-Divyansh%20Kumar-blue?style=for-the-badge&logo=linkedin">
