@@ -11,5 +11,13 @@ a student at Chitkara University, doing Bachelor's in Computer Science and Engin
 - 👨🏻‍💻 I’m currently learning Full-Stack Web Development and React  
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
-- 💬 Ask me about HTML5, CSS3, JS | Node.js, Express, MongoDB, Mongoose 
+- 💬 Ask me about :
+     
+    - FRONT-END |
+        
+        HTML5, CSS3, JS 
+    
+    - BACK-END |
+      
+      Node.js, Express, MongoDB, Mongoose 
 
