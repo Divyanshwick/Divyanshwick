@@ -15,7 +15,7 @@ a student at Chitkara University, doing Bachelor's in Computer Science and Engin
      
     - FRONT-END |
         
-        HTML5, CSS3, JS 
+        HTML5, CSS3, JS, Bs4 
     
     - BACK-END |
       
