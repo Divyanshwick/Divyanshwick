@@ -1,4 +1,4 @@
-### Hey there!! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="100" height="100">
+### Hey there!! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50">
 
 # I'm Divyansh Kumar,
 a student at Chitkara University, doing Bachelor's in Computer Science and Engineering.
