@@ -12,6 +12,6 @@
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
 - 💬 Ask me about FullStack Web Development | Android App 
-      &nbsp; development
+      &nbsp;&nbsp; &nbsp;development
      
 
