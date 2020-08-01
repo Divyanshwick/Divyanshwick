@@ -11,6 +11,7 @@
 - 👨🏻‍💻 I’m currently learning Full-Stack Web Development and React  <img align="right" src="https://www.optimista.co.in/website.gif" width="440" height="200">
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Research Papers
-- 💬 Ask me about FullStack Web Development | Android App development
+- 💬 Ask me about FullStack Web Development | Android App 
+      &nbsp; development
      
 
