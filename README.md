@@ -15,5 +15,5 @@
       &nbsp;&nbsp; &nbsp;development
  
  ## Languages and Frameworks : 
- <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="40">     
-
+ <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="30" width="30">    <image src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" height="30" width="30">     
+  
