@@ -15,5 +15,5 @@
       &nbsp;&nbsp; &nbsp;development
  
  ## Languages and Frameworks : 
- <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="30" width="30">    <image src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" height="30" width="30">  <image src="https://commons.wikimedia.org/w/index.php?sort=relevance&search=JavaScript+logo&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Unofficial_JavaScript_logo_2.svg" height="30" width="30">   
+ <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="30" width="30">    <image src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" height="30" width="30">  <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKI4DdtNOllWOxkL4yJ0LaAC_GG_H1JxKWIw&usqp=CAU" height="30" width="30">   
   
