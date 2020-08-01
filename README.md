@@ -13,5 +13,7 @@
 - 🤔 I’m looking for help with Research Papers
 - 💬 Ask me about FullStack Web Development | Android App 
       &nbsp;&nbsp; &nbsp;development
-     
+ 
+ ## Languages and Frameworks : 
+ <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="40">     
 
