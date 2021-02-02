@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Divyanshwick/Divyanshwick/blob/master/Readme_Files/BannerGithub.png" width="1000" height="340">
+<img align="center" src="https://github.com/Divyanshwick/Divyanshwick/blob/master/Readme_Files/BannerGithub.png" width="100%">
 
  [![Linkedin](https://img.shields.io/badge/Divyansh%20Kumar-blue??style=plastic&logo=linkedin)](https://www.linkedin.com/in/divyansh-k-05085b193/)
  [![Linkedin](https://img.shields.io/badge/Divyansh%20Kumar-black?style=plastic&logo=Twitter)](https://twitter.com/Divyans14237570)
