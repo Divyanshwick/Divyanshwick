@@ -5,7 +5,7 @@
  [![Linkedin](https://img.shields.io/badge/Divyansh%20Kumar-006400??style=plastic&logo=freeCodeCamp)](https://www.freecodecamp.org/flash_the_coder)
  [![Linkedin](https://img.shields.io/badge/ddivyansh9999@gmail.com-ffb138?style=plastic&logo=Gmail)]()
 
-- 👨🏻‍💻 I’m currently learning Redux, Type-GraphQL, Apollo, TypeScript, PostgreSQL  
+- 👨🏻‍💻 I’m currently learning Next.js,Flutter,Django  
 - 👀 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about FullStack Web Development | Android App 
       Development
